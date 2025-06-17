@@ -1,6 +1,6 @@
 module github.com/maxliu9403/action-spec
 
-go 1.18
+go 1.23.5
 
 require (
 	github.com/go-openapi/jsonpointer v0.19.5
